@@ -1,0 +1,117 @@
+* {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.main {
+  box-sizing: border-box;
+
+  height: 391px;
+  left: 35px;
+
+  background: #f6e7d2;
+  border: 1px solid rgba(43, 55, 82, 0.2);
+  box-shadow: 0px 5px 4px rgba(0, 0, 0, 0.34);
+  border-radius: 10px;
+}
+
+.botao {
+  box-sizing: border-box;
+
+  background: #01b6ad;
+  border: 1px solid rgba(43, 55, 82, 0.2);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+
+.nav {
+  height: 70px;
+
+  background: #2b3752;
+  /* box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
+}
+
+.perfil-a-cismo {
+  width: 69px;
+  height: 70px;
+  background: #2b3752;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  color: #ffffff;
+  text-align: center;
+  font-size: 15px;
+}
+
+.perfil-a-cismo > a {
+  text-decoration: none;
+  color: #f6e7d2;
+}
+
+.perfil-cismo {
+  width: 69px;
+  height: 70px;
+  background: #01b6ad;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  color: #ffffff;
+  text-align: center;
+  font-size: 15px;
+}
+
+.perfil-cismo > a {
+  text-decoration: none;
+  color: #f6e7d2;
+}
+
+.name-cismo {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 58px;
+  color: #ffffff;
+}
+
+.tempo {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 50px;
+
+  color: #2b3752;
+}
+
+.linha {
+  width: 222px;
+  height: 0px;
+  left: 110px;
+  top: 337px;
+
+  border: 1px solid #2b3752;
+}
+
+.img-perfil-cismo {
+  margin-top: 3px;
+  margin-left: 3px;
+}
+
+.img-botao-voltar {
+  margin-top: 11px;
+  margin-left: 10px;
+}
+
+.detalhe-botao {
+  text-decoration: none;
+  color: #f6e7d2;
+}
+
+.amostra {
+  width: 222px;
+}
